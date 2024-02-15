@@ -44,38 +44,40 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyB75qcI6z_oh0UFBGrxIfEt7A-n5TL2eO8',
-    appId: '1:889253187737:web:da2b31ad00eef93ff32808',
-    messagingSenderId: '889253187737',
-    projectId: 'mylivechat-ee30d',
-    authDomain: 'mylivechat-ee30d.firebaseapp.com',
-    storageBucket: 'mylivechat-ee30d.appspot.com',
-    measurementId: 'G-H2X5XVF0PP',
+    apiKey: 'AIzaSyBpVfz1XDJwroGdfNQTTnz3H7OEYQZ5Scw',
+    appId: '1:43673061352:web:ec5881c01ae1d4b756865d',
+    messagingSenderId: '43673061352',
+    projectId: 'chatapp-ff75d',
+    authDomain: 'chatapp-ff75d.firebaseapp.com',
+    storageBucket: 'chatapp-ff75d.appspot.com',
+    measurementId: 'G-EY1X39T5VL',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAbXRAM21eT3pmNww4lu9_3JjcvpfWBGu4',
-    appId: '1:889253187737:android:89cd4e9e71b2cb07f32808',
-    messagingSenderId: '889253187737',
-    projectId: 'mylivechat-ee30d',
-    storageBucket: 'mylivechat-ee30d.appspot.com',
+    apiKey: 'AIzaSyBxNFSJgzOJ1mdVrgVit1cM4iaXmp6Je-s',
+    appId: '1:43673061352:android:bbad29caa9255d2656865d',
+    messagingSenderId: '43673061352',
+    projectId: 'chatapp-ff75d',
+    storageBucket: 'chatapp-ff75d.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBRSAb5YDyHeOD1S5XA5t7pqZdhtxZJ4Cc',
-    appId: '1:889253187737:ios:88f2b59d4938e242f32808',
-    messagingSenderId: '889253187737',
-    projectId: 'mylivechat-ee30d',
-    storageBucket: 'mylivechat-ee30d.appspot.com',
+    apiKey: 'AIzaSyDEmCTl31JxSdlvzHsSj4tKDJwh1ef4AWY',
+    appId: '1:43673061352:ios:c94249413b8df82856865d',
+    messagingSenderId: '43673061352',
+    projectId: 'chatapp-ff75d',
+    storageBucket: 'chatapp-ff75d.appspot.com',
+    iosClientId: '43673061352-adbp4ouom0h4hiut943il7pj4f5rif5u.apps.googleusercontent.com',
     iosBundleId: 'com.example.livechat',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyBRSAb5YDyHeOD1S5XA5t7pqZdhtxZJ4Cc',
-    appId: '1:889253187737:ios:d19effaf470ebb62f32808',
-    messagingSenderId: '889253187737',
-    projectId: 'mylivechat-ee30d',
-    storageBucket: 'mylivechat-ee30d.appspot.com',
+    apiKey: 'AIzaSyDEmCTl31JxSdlvzHsSj4tKDJwh1ef4AWY',
+    appId: '1:43673061352:ios:11ce63e39e945cd556865d',
+    messagingSenderId: '43673061352',
+    projectId: 'chatapp-ff75d',
+    storageBucket: 'chatapp-ff75d.appspot.com',
+    iosClientId: '43673061352-s7jlbamraj9t6vcgp0m6nm9a5usicrmh.apps.googleusercontent.com',
     iosBundleId: 'com.example.livechat.RunnerTests',
   );
 }
